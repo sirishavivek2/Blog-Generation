@@ -1,4 +1,5 @@
 🧠 Project Overview: Streamlit Blog Generator using LLama 2
+
 This project is a web-based blog generation tool that leverages a locally hosted LLama 2 language model to produce high-quality blog content based on user input. The application is designed to be intuitive and interactive, allowing users to enter a topic, specify a word count, and choose a target audience style — such as Researchers, Data Scientists, or Common People. Upon submission, the app generates a blog post tailored to these parameters.
 
 🎯 Objective
